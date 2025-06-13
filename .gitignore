@@ -1,0 +1,8 @@
+tf_pt_env/
+models/
+logs/
+__pycache__/
+*.onnx
+*.tflite
+*.zip
+
