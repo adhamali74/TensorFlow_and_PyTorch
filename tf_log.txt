@@ -1,0 +1,17 @@
+Training TensorFlow model...
+Epoch 1/5
+1875/1875 - 11s - 6ms/step - accuracy: 0.9133 - loss: 0.3053
+Epoch 2/5
+1875/1875 - 8s - 4ms/step - accuracy: 0.9564 - loss: 0.1506
+Epoch 3/5
+1875/1875 - 9s - 5ms/step - accuracy: 0.9681 - loss: 0.1084
+Epoch 4/5
+1875/1875 - 7s - 4ms/step - accuracy: 0.9747 - loss: 0.0843
+Epoch 5/5
+1875/1875 - 6s - 3ms/step - accuracy: 0.9794 - loss: 0.0685
+Training completed in 40.99 seconds
+Evaluating TensorFlow model...
+Test accuracy: 0.9714
+Inference time on test set: 1.3579 seconds
+Exporting model to TFLite...
+Exported TFLite model saved to models/model.tflite

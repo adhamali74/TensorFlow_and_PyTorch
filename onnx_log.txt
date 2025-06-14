@@ -1,0 +1,3 @@
+Running inference on ONNX model...
+Inference accuracy: 97.3900%
+Inference time: 0.0452 seconds
