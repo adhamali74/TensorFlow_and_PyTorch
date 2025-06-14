@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Lab03: TensorFlow and PyTorch
 
 **Author:** Adham Ali Mohamed Abdelfattah  
@@ -18,12 +20,11 @@ This lab compares two popular deep learning frameworks: TensorFlow and PyTorch. 
 
 ### 2.1 Software and Hardware Used
 
-- **Programming Language:** Python 3.12  
-- **Libraries:** TensorFlow 2.16.2, PyTorch 2.2.2, ONNX, ONNXRuntime, TorchVision, Matplotlib  
+- **Programming Language:** Python 3.12
+- **Libraries:** TensorFlow 2.16.2, PyTorch 2.2.2, ONNX, ONNXRuntime, TorchVision, Matplotlib
 - **Hardware:** Apple MacBook Air (Intel Core i5, CPU only)
 
 ### 2.2 Code Repository Structure
-
 
 ```
 AP_Project/
@@ -47,11 +48,11 @@ AP_Project/
 
 ## 3. Results
 
-| Framework    | Test Accuracy | Inference Time |
-|--------------|----------------|----------------|
-| TensorFlow   | 97.14%         | 1.36 sec       |
-| PyTorch      | 97.39%         | 5.19 sec       |
-| ONNXRuntime  | 97.39%         | **0.045 sec**  |
+| Framework   | Test Accuracy | Inference Time |
+| ----------- | ------------- | -------------- |
+| TensorFlow  | 97.14%        | 1.36 sec       |
+| PyTorch     | 97.39%        | 5.19 sec       |
+| ONNXRuntime | 97.39%        | **0.045 sec**  |
 
 ---
 
