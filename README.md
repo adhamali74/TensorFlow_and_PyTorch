@@ -28,13 +28,13 @@ This lab compares two popular deep learning frameworks: TensorFlow and PyTorch. 
 
 ```
 AP_Project/
-├── src/                # All source code for training, exporting, inference
-│   ├── tensorflow_model.py
-│   ├── pytorch_model.py
-│   └── onnx_inference.py
-├── models/             # Saved models (.tflite, .onnx)
-├── logs/               # Log files for training and inference
-└── README.md           # This file
+├── src/ # All source code for training, exporting, inference
+│ ├── tensorflow_model.py
+│ ├── pytorch_model.py
+│ └── onnx_inference.py
+├── models/ # Saved models (.tflite, .onnx)
+├── logs/ # Log files for training and inference
+└── README.md # This file
 ```
 
 ### 2.3 Code Implementation
